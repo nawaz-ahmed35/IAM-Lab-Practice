@@ -1,0 +1,21 @@
+<img width="1918" height="729" alt="Step-1" src="https://github.com/user-attachments/assets/92fa6157-bfdc-4712-880a-a3f2f0347f0d" />## Create User in Azure AD (Entra ID)
+
+### Objective
+To create a new user account in Microsoft Entra ID.
+
+### Steps Performed
+1. Logged into Azure Portal
+2. Navigated to Microsoft Entra ID
+3. Selected Users → New User
+4. Entered user details
+5. Assigned license
+6. Verified user creation
+
+### Result
+User account successfully created.
+<img width="1918" height="729" alt="Step-1" src="https://github.com/user-attachments/assets/addd07d0-8a7a-4edc-b60c-ec7cb199c49a" />
+<img width="1919" height="915" alt="Step-2" src="https://github.com/user-attachments/assets/e601cbf9-17cb-47c0-abd4-cb0c3419450c" />
+<img width="1919" height="910" alt="Step-3" src="https://github.com/user-attachments/assets/67ee208c-dac5-4a84-a529-3b3292fd6561" />
+<img width="1919" height="919" alt="Step-4" src="https://github.com/user-attachments/assets/16e56240-b2c2-47c2-bf8c-b1a54561f299" />
+<img width="1919" height="857" alt="Step-6" src="https://github.com/user-attachments/assets/76bc6cb3-5362-4ccc-bc92-a86103c15d05" />
+
