@@ -1,0 +1,14 @@
+## Delete User in Azure AD (Entra ID)
+
+### Objective
+To Delete a user account in Microsoft Entra ID.
+
+### Steps Performed
+1. Logged into Azure Portal
+2. Navigated to Microsoft Entra ID
+3. Selected Deleted Users → Click the user
+4. clike the delete
+6. Verified user Deletion
+
+### Result
+User account successfully Deleted.
